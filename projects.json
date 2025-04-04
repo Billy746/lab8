@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Personal Portfolio",
+      "language": "HTML/CSS/JavaScript",
+      "description": "A responsive portfolio website showcasing my skills and projects"
+    },
+    {
+      "name": "Task Manager",
+      "language": "JavaScript/React",
+      "description": "A web application for managing daily tasks and to-do lists"
+    },
+    {
+      "name": "Weather Dashboard",
+      "language": "JavaScript/API",
+      "description": "A dashboard that displays weather information from various locations"
+    },
+    {
+      "name": "E-commerce Store",
+      "language": "Node.js/Express",
+      "description": "A backend API for an e-commerce platform"
+    }
+  ]
